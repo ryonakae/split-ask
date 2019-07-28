@@ -1,11 +1,11 @@
-update=2019 July 28, Sunday 01:53:53
+update=2019 July 28, Sunday 07:56:31
 last_client=kicad
 [general]
 version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=split-ask.net
+LastNetListRead=split-ask_left.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -213,7 +213,7 @@ Enabled=1
 [pcbnew/Layer.F.Fab]
 Enabled=1
 [pcbnew/Layer.Rescue]
-Enabled=1
+Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
