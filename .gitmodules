@@ -4,3 +4,6 @@
 [submodule "submodules/kbd"]
 	path = submodules/kbd
 	url = git@github.com:foostan/kbd.git
+[submodule "submodules/Keebio-Parts.pretty"]
+	path = submodules/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
