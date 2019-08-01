@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/ryo.nakae/Dev/split-ask/pcb-right/split-ask_right.sch)
-    (date "2019 July 28, Sunday 23:14:50")
+    (date "2019 July 30, Tuesday 09:49:31")
     (tool "Eeschema (5.1.2-1)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -472,7 +472,7 @@
       (tstamp 5D3E9290))
     (comp (ref RST1)
       (value SW_PUSH)
-      (footprint Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117)
+      (footprint kbd:ResetSW_1side)
       (libsource (lib kbd) (part SW_PUSH) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5D3EB7E3)))

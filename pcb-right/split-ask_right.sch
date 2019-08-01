@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:split-ask_right-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1183,7 +1184,7 @@ U 1 1 5D3EB7E3
 P 5150 5600
 F 0 "RST1" H 5150 5855 50  0000 C CNN
 F 1 "SW_PUSH" H 5150 5764 50  0000 C CNN
-F 2 "Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117" H 5150 5600 50  0001 C CNN
+F 2 "kbd:ResetSW_1side" H 5150 5600 50  0001 C CNN
 F 3 "" H 5150 5600 50  0000 C CNN
 	1    5150 5600
 	1    0    0    -1  
